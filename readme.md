@@ -10,6 +10,6 @@
 
 # Time taken to finish this project is 8 hours.
 
-[Live link for Project-12]()
+[Live link for Project-12](https://regal-fenglisu-629f3e.netlify.app/)
 
 
